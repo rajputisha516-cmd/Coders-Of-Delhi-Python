@@ -90,3 +90,6 @@ Coders-of-Delhi/
 
 **Isha Rajput**  
 Aspiring Data Scientist | Python Developer
+
+> Note: This project focuses on logic and problem-solving using a small dataset.
+
